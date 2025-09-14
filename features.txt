@@ -1,0 +1,20 @@
+APP-PHARMEASY,flipkart health
+>medicine orders
+>book diagnostic tests
+>health care products
+>fast delivery
+
+APP-NETMEDS
+>consult doctors
+>health information
+
+APP-TATA 1mg
+>health tips
+
+APP-HEALTH BUDDY
+>appointment
+>surgery care
+
+APP-PRISTYN CARE
+>health plans
+>medical images security
